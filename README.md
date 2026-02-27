@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/24eYa-Z_)
 # TP1_Web2_2026
 
 # TP JavaScript 1 — Variables, Types et DOM (Rappel)
@@ -42,7 +43,7 @@ Copiez ce fichier de départ pour chaque exercice :
     <title>TP JavaScript</title>
   </head>
   <body>
-    <h1>Exercice X</h1>
+    
     <!-- Votre contenu HTML ici -->
 
     <script>
