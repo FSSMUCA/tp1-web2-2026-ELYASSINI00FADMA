@@ -43,7 +43,7 @@ Copiez ce fichier de départ pour chaque exercice :
     <title>TP JavaScript</title>
   </head>
   <body>
-    <h1>Exercice X</h1>
+    
     <!-- Votre contenu HTML ici -->
 
     <script>
